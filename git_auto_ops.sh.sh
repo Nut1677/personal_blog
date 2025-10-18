@@ -34,5 +34,4 @@ else
         echo "No changes to commit."    
     fi
 fi
-
 read -p "Press any key to exit..." -n 1 -s
