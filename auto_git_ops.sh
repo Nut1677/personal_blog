@@ -4,7 +4,7 @@
 BRANCH_NAME="main"
 
 # 设置远程仓库名称（默认远程仓库为 GitHub，你可以根据需要修改为其他远程仓库名称）
-REMOTE_NAME_1="origin"
+REMOTE_NAME_1="GitHub"
 #REMOTE_NAME_2="Gitee"
 
 # 提示用户输入提交信息，并附加当前日期和时间
