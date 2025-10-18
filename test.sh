@@ -19,7 +19,7 @@ else
         echo "Commit successful: $COMMIT_MESSAGE"
 
         # 推送到指定分支
-        git push origin $BRANCH_NAME
+        git push GitHub $BRANCH_NAME
 
         echo "Push successful to branch $BRANCH_NAME"
     else
