@@ -26,5 +26,4 @@ else
         echo "No changes to commit."    
     fi
 fi
-
 read
